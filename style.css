@@ -1,1 +1,31 @@
-# site-onde-est-
+body{
+    background-color: dimgray;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+}
+.cabecalho{
+    background-color: darkred;
+    color: darkgray;
+    font-size: 70px;
+    margin-top: 0%;
+    padding: 5px;
+    text-align: center;
+}
+.Principal{
+background-color: rgb(237, 237, 242);
+padding: 30px;
+display: flex;
+justify-content: center;
+
+}
+.rodape{
+    background-color: darkred;
+    color: darkgray;
+    font-size: 70px;
+    margin-top: 0%;
+    padding: 5px;
+    text-align: center;
+
+}
